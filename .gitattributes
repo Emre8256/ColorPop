@@ -1,2 +1,0 @@
-*.apk filter=lfs diff=lfs merge=lfs -text
-ColorPopApk/*.apk filter=lfs diff=lfs merge=lfs -text
