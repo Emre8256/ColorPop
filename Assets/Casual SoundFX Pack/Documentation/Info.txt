@@ -1,0 +1,43 @@
+	Casual SoundFX Pack
+	Composed and Produced by Tim Beek
+
+Thank you for download this audio pack.
+
+Check out some of my other assets:
+https://assetstore.unity.com/publishers/25871
+
+Audio:
+GameOver
+Ice Reflect
+Interface Positive Button
+Interface Push Button
+Interface Soft Button
+Negative
+Nitro Speed
+Pauze Game Arcade
+Pickup Holy
+Pickup Magic
+Pickup Soft
+Positive Holy1
+Positive Holy2
+Positive Synth
+Shield Pickup
+Tribal Drum
+Victory SoundFX1
+Victory SoundFX2
+Victory SoundFX3
+Victory SoundFX4
+Victory SoundFX5
+Victory SoundFX6
+
+All files are in .wav 44.1 khz 16 bit
+
+If you have any questions in general or about this product feel free to contact me by email at: info@timbeek.com
+
+For custom music check:
+https://www.fiverr.com/timbeek/custom-game-music
+
+Good luck with your project!
+
+Cheers,
+Tim Beek
